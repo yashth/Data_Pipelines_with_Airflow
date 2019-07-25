@@ -28,7 +28,7 @@ As data engineer, we need to create an create high grade data pipelines that are
 
 ## DAG Diagram
 
-![Sowing the data pipelines directed acyclic graph](/DAG_Diagram.png "DAG Diagram")
+![Showing the data pipelines directed acyclic graph](/DAG_Diagram.png "DAG Diagram")
 
 
 ## Credits
